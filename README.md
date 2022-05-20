@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is an exercise in making a website.
+This is an exercise in making a recipe website.
